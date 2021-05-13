@@ -1,0 +1,2 @@
+com/example/money/TestMoney.java
+ com.example.money.TestMoney
