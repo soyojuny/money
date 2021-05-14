@@ -1,2 +1,4 @@
 com/example/money/Dollar.java
  com.example.money.Dollar
+com/example/money/Franc.java
+ com.example.money.Franc
