@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.example.money.TestMoney" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-05-14T23:59:09" hostname="gimjun-yeong-ui-MacBook-Pro.local" time="0.025">
+<testsuite name="com.example.money.TestMoney" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-05-15T00:14:42" hostname="gimjun-yeong-ui-MacBook-Pro.local" time="0.066">
   <properties/>
-  <testcase name="testEquality()" classname="com.example.money.TestMoney" time="0.025"/>
+  <testcase name="testMultiplication()" classname="com.example.money.TestMoney" time="0.056"/>
+  <testcase name="testFrancMultiplication()" classname="com.example.money.TestMoney" time="0.002"/>
+  <testcase name="testEquality()" classname="com.example.money.TestMoney" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
