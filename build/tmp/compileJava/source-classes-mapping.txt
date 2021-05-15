@@ -1,6 +1,6 @@
-com/example/money/Dollar.java
- com.example.money.Dollar
 com/example/money/Money.java
  com.example.money.Money
+com/example/money/Dollar.java
+ com.example.money.Dollar
 com/example/money/Franc.java
  com.example.money.Franc
